@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+# Secrets : jamais dans le dépôt (contrôle n°4)
+.env
+.env.*
+!.env.example
+*.pem
+.vercel
